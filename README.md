@@ -12,6 +12,12 @@ This project demonstrates the integration of multiple **IBM Watson AI services**
 
 With globalization, language barriers have become a significant challenge. Manual translation is time-consuming, and real-time conversations require instant translations. This project automates the entire process of **speech recognition, translation, and voice synthesis**, providing users with a fast and accurate translation experience.
 
+<p align="center">
+  <img src="https://github.com/so123-design/AI-Powered-Voice-Translation-Assistant/blob/90ca8dbf8093abd65d2744f92488c97cefee54ae/GUI%20voice%20translator%20picture%202.PNG " alt="My Image" width="300">
+</p>
+
+
+
 The **main functionalities** of this application include:
 1. **Speech-to-Text**: Converting spoken words into text using **IBM Watson Speech-to-Text**.
 2. **Language Translation**: Using **Watsonx FLAN-UL2** to translate text to another language.
